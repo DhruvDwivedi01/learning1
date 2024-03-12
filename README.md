@@ -1,3 +1,4 @@
 # learning1
-Learning about Git
+Learning about Git.
+<br>
 Author-Dhruv Dwivedi
